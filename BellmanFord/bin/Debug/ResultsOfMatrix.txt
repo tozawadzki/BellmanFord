@@ -1,0 +1,343 @@
+
+Sciezki:
+
+0  ->  
+0   
+
+Calkowity koszt przejscia: 0
+
+0  ->  
+1   
+
+Calkowity koszt przejscia: 11
+
+0  ->  
+2   
+
+Calkowity koszt przejscia: 17
+
+0  ->  
+1  ->  
+3   
+
+Calkowity koszt przejscia: 27
+
+0  ->  
+7  ->  
+41  ->  
+4   
+
+Calkowity koszt przejscia: 27
+
+0  ->  
+7  ->  
+5   
+
+Calkowity koszt przejscia: 30
+
+0  ->  
+6   
+
+Calkowity koszt przejscia: 19
+
+0  ->  
+7   
+
+Calkowity koszt przejscia: 6
+
+0  ->  
+28  ->  
+8   
+
+Calkowity koszt przejscia: 33
+
+0  ->  
+40  ->  
+9   
+
+Calkowity koszt przejscia: 28
+
+0  ->  
+2  ->  
+10   
+
+Calkowity koszt przejscia: 29
+
+0  ->  
+2  ->  
+22  ->  
+11   
+
+Calkowity koszt przejscia: 20
+
+0  ->  
+7  ->  
+12   
+
+Calkowity koszt przejscia: 25
+
+0  ->  
+2  ->  
+22  ->  
+11  ->  
+21  ->  
+13   
+
+Calkowity koszt przejscia: 35
+
+0  ->  
+7  ->  
+41  ->  
+30  ->  
+15  ->  
+14   
+
+Calkowity koszt przejscia: 31
+
+0  ->  
+7  ->  
+41  ->  
+30  ->  
+15   
+
+Calkowity koszt przejscia: 18
+
+0  ->  
+2  ->  
+22  ->  
+32  ->  
+16   
+
+Calkowity koszt przejscia: 39
+
+0  ->  
+2  ->  
+22  ->  
+11  ->  
+21  ->  
+17   
+
+Calkowity koszt przejscia: 37
+
+0  ->  
+1  ->  
+23  ->  
+18   
+
+Calkowity koszt przejscia: 28
+
+0  ->  
+7  ->  
+41  ->  
+30  ->  
+19   
+
+Calkowity koszt przejscia: 19
+
+0  ->  
+6  ->  
+20   
+
+Calkowity koszt przejscia: 27
+
+0  ->  
+2  ->  
+22  ->  
+11  ->  
+21   
+
+Calkowity koszt przejscia: 31
+
+0  ->  
+2  ->  
+22   
+
+Calkowity koszt przejscia: 18
+
+0  ->  
+1  ->  
+23   
+
+Calkowity koszt przejscia: 22
+
+0  ->  
+1  ->  
+23  ->  
+24   
+
+Calkowity koszt przejscia: 31
+
+0  ->  
+7  ->  
+41  ->  
+4  ->  
+25   
+
+Calkowity koszt przejscia: 32
+
+0  ->  
+2  ->  
+27  ->  
+26   
+
+Calkowity koszt przejscia: 34
+
+0  ->  
+2  ->  
+27   
+
+Calkowity koszt przejscia: 19
+
+0  ->  
+28   
+
+Calkowity koszt przejscia: 25
+
+0  ->  
+7  ->  
+29   
+
+Calkowity koszt przejscia: 22
+
+0  ->  
+7  ->  
+41  ->  
+30   
+
+Calkowity koszt przejscia: 17
+
+0  ->  
+2  ->  
+22  ->  
+32  ->  
+31   
+
+Calkowity koszt przejscia: 33
+
+0  ->  
+2  ->  
+22  ->  
+32   
+
+Calkowity koszt przejscia: 24
+
+0  ->  
+6  ->  
+33   
+
+Calkowity koszt przejscia: 40
+
+0  ->  
+2  ->  
+22  ->  
+32  ->  
+34   
+
+Calkowity koszt przejscia: 29
+
+0  ->  
+28  ->  
+35   
+
+Calkowity koszt przejscia: 27
+
+0  ->  
+7  ->  
+41  ->  
+4  ->  
+36   
+
+Calkowity koszt przejscia: 41
+
+0  ->  
+1  ->  
+23  ->  
+37   
+
+Calkowity koszt przejscia: 23
+
+0  ->  
+7  ->  
+41  ->  
+38   
+
+Calkowity koszt przejscia: 24
+
+0  ->  
+7  ->  
+41  ->  
+30  ->  
+15  ->  
+14  ->  
+39   
+
+Calkowity koszt przejscia: 43
+
+0  ->  
+40   
+
+Calkowity koszt przejscia: 26
+
+0  ->  
+7  ->  
+41   
+
+Calkowity koszt przejscia: 16
+
+0  ->  
+1  ->  
+23  ->  
+42   
+
+Calkowity koszt przejscia: 28
+
+0  ->  
+2  ->  
+27  ->  
+43   
+
+Calkowity koszt przejscia: 35
+
+0  ->  
+2  ->  
+22  ->  
+47  ->  
+44   
+
+Calkowity koszt przejscia: 36
+
+0  ->  
+1  ->  
+23  ->  
+18  ->  
+45   
+
+Calkowity koszt przejscia: 32
+
+0  ->  
+7  ->  
+46   
+
+Calkowity koszt przejscia: 34
+
+0  ->  
+2  ->  
+22  ->  
+47   
+
+Calkowity koszt przejscia: 33
+
+0  ->  
+2  ->  
+22  ->  
+48   
+
+Calkowity koszt przejscia: 28
+
+0  ->  
+7  ->  
+12  ->  
+49   
+
+Calkowity koszt przejscia: 31
+
